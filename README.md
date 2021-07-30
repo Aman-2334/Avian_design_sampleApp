@@ -5,7 +5,7 @@ A new Flutter project.
 ## Sample Screens
 
 ### Homepage
-<img src=https://user-images.githubusercontent.com/54218000/127638195-3f879b7f-a729-4bc1-902c-0b0c9d59e674.jpg) height="700" width="400" />
+<img src="https://user-images.githubusercontent.com/54218000/127638195-3f879b7f-a729-4bc1-902c-0b0c9d59e674.jpg" height="700" width="400" />
 ### Side Drawer
 ![side drawer](https://user-images.githubusercontent.com/54218000/127638444-a25ca197-884d-416b-a0ae-e8b7aaf42eb8.jpg)
 ### Service main
