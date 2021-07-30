@@ -9,6 +9,9 @@ import '../screens/HomePage.dart';
 import '../screens/services.dart';
 
 void main() {
+  SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
+    systemNavigationBarColor: Colors.black,
+  ));
   runApp(Avian());
 }
 
