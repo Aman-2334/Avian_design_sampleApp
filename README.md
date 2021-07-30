@@ -1,6 +1,13 @@
+
+
+
 # avian_design
 
-A new Flutter project.
+A new Flutter project. Scroll to see video and Screens.
+
+## App Video Sample
+
+https://user-images.githubusercontent.com/54218000/127641495-591ca8bb-bf38-4049-b038-00a3de1dfc3f.mp4
 
 ## Sample Screens
 
