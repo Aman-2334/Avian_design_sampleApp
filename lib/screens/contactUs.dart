@@ -178,15 +178,18 @@ class _ContactUsState extends State<ContactUs> {
                           textAlign: TextAlign.center,
                         ),
                         Padding(
-                          padding: EdgeInsets.all(20),
-                          child: Row(
-                            children: [
-                              socialButton('assets/brands/behance.svg'),
-                              socialButton('assets/brands/facebook.svg'),
-                              socialButton('assets/brands/instagram.svg'),
-                              socialButton('assets/brands/linkedin.svg'),
-                              socialButton('assets/brands/twitter.svg'),
-                            ],
+                          padding: EdgeInsets.all(10),
+                          child: SingleChildScrollView(
+                            scrollDirection: Axis.horizontal,
+                            child: Row(
+                              children: [
+                                socialButton('assets/brands/behance.svg'),
+                                socialButton('assets/brands/facebook.svg'),
+                                socialButton('assets/brands/instagram.svg'),
+                                socialButton('assets/brands/linkedin.svg'),
+                                socialButton('assets/brands/twitter.svg'),
+                              ],
+                            ),
                           ),
                         )
                       ],
